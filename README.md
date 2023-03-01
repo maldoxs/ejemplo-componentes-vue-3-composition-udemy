@@ -1,6 +1,8 @@
-# componens-1
+# Ejemplo curso Udemy vue-3
 
-This template should help get you started developing with Vue 3 in Vite.
+-[Preview page](https://moonlit-boba-1e3b67.netlify.app/)
+
+Ejemplo del curso de Udemy de Vue.js 3, trabajando con componentes y composition api.
 
 ## Recommended IDE Setup
 
